@@ -1,0 +1,16 @@
+.idea
+.babelrc
+.csscomb.json
+.csslintrc
+.editorconfig
+.eslintrc
+.flowconfig
+.gitattributes
+.jscsrc
+.npmignore
+.rpt2_cache
+.vscode
+.env
+
+src
+test-applications
